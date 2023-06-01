@@ -14,6 +14,7 @@ Because data of the Position Tracker needs to saved to keep track like this.
 ## ELK Stack
 We'll use ELK Stack to take logs from the pod running in all nodes. ELK Stack Stucture:
 ![ELKStack](https://github.com/huynguyendev02/k8s-microservices/assets/109943707/be53678f-4baa-4232-bc3e-8b60b9b3e52c)
+
 I'll implement it in this project like this:
 ![elk2](https://github.com/huynguyendev02/k8s-microservices/assets/109943707/f8f1a4f7-701f-43cc-b061-73859f913ee9)
 In case of the Queue failure:
