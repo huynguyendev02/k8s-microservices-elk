@@ -7,7 +7,8 @@ This is a part of my course on [Udemy](https://www.udemy.com/course/kubernetes-m
 ![alt text](https://github.com/huynguyendev02/k8s-microservices/assets/109943707/b0edd05c-0fd8-43e1-82b3-87fdd410b384)
 Because data of the Position Tracker needs to saved to keep track like this.
 ![image](https://github.com/huynguyendev02/k8s-microservices/assets/109943707/52e595eb-2e79-43cf-bdc4-6956c8b7f031)
- I'll implement  a microservice use mongoDB to save the data.
+
+I'll implement  a microservice use mongoDB to save the data.
 ![db](https://github.com/huynguyendev02/k8s-microservices/assets/109943707/92e90725-f0dc-45c3-a920-edc0a5f4174f)
 ## Website GUI
 ![app](https://github.com/huynguyendev02/k8s-microservices/assets/109943707/dd69cf85-8de4-4b5c-9293-f38bcdbe1512)
